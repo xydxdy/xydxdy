@@ -5,18 +5,9 @@
 - 🧠 I investigate topics in the fields of machine learning/deep learning and signal processing for brain-computer interfaces and assistive technology.
 
 <h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xydxdy&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/xydxdy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xydxdy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xydxdy"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xydxdy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xydxdy"/>
-  </a>
-</div>
 <p align="center">
   <a href="https://github.com/xydxdy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xydxdy&&theme=tokyonight" alt="xydxdy" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xydxdy&theme=transparent" alt="xydxdy" />
   </a>
 </p>
 
